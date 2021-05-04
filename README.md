@@ -1,2 +1,2 @@
 # CV-Task
-https://github.com/Oladele08/CV-Task
+https://oladele08.github.io/CV-Task/
